@@ -1,6 +1,6 @@
-https://khansaad1275.github.io/me/
+This is my test site : https://khansaad1275.github.io/me/
 
-Absolutely! You can do it all directly on GitHub without leaving the site. Let’s keep it simple! 😎
+# host a website on github in 3 easy steps:
 
 ### 1️⃣ **Create a Repository**
    - Go to [GitHub](https://github.com) and sign in.
