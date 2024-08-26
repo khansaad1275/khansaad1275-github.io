@@ -1,4 +1,4 @@
-This is my test site : https://khansaad1275.github.io/me/
+<a href="https://khansaad1275.github.io/me/" target="_blank">This is my test site</a>
 
 # host a website on github in 3 easy steps:
 
